@@ -1,0 +1,59 @@
+.list-container {
+    padding: 10px 10px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.list-container > h1 {
+    color: blue;
+    font-size: 1.3rem;
+}
+
+.link-icon {
+    width: 25px;
+    height: 25px;
+    margin-left: 10px;
+}
+
+.blue-link {
+    color: blue;
+}
+
+.title {
+    display: flex;
+    margin: 10px 20px;
+    align-items: center;
+}
+
+.title > p {
+    margin-right: 10px;
+    font-weight: 300;
+}
+
+.subject-text {
+    text-decoration: none;
+    font-weight: 300;
+}
+
+.circle {
+    width: 1rem;
+    height: 1rem;
+    border-radius: 1rem;
+    box-shadow: 2px 3px 3px lightgray;
+}
+
+.green {
+    background-color: #7FB77E;
+}
+
+.red {
+    background-color: red;
+}
+
+.id {
+    font-size: 0.8rem;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: lightgray;
+}
